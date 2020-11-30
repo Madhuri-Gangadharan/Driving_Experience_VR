@@ -1,6 +1,6 @@
 # Project2-_VR
 
-* Demo Link - https://drive.google.com/drive/folders/1lyBdmmmZyqyPHwftycvezdJ2hsj8Gl98
+* Demo Link - https://youtu.be/QDMWq05coGE
 
 # Source code
 
